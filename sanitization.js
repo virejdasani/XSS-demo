@@ -6,3 +6,7 @@ function sanitize(string) {
   }
 }
 // textContent
+
+{
+  /* <img src=x onerror=alert(1);> */
+}
